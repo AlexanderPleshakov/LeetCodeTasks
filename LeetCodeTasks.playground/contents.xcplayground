@@ -4,6 +4,7 @@
         <page name='1. Two Sum'/>
         <page name='217. Contains Duplicate'/>
         <page name='242. Valid Anagram'/>
+        <page name='347. Top K Frequent Elements'/>
         <page name='49. Group Anagrams'/>
     </pages>
 </playground>
