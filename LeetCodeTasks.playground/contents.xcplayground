@@ -8,5 +8,6 @@
         <page name='49. Group Anagrams'/>
         <page name='238. Product of Array Except Self'/>
         <page name='271. String Encode and Decode'/>
+        <page name='36. Valid Sudoku'/>
     </pages>
 </playground>
